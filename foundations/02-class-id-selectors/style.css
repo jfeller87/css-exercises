@@ -1,0 +1,15 @@
+.odd {
+    background-color: #fda7a8;
+    font-family: Verdana, sans-serif;
+}
+.twentyfour {
+    font-size: 24px;
+}
+#one {
+    color: blue;
+    font-size: 36px;
+}
+#two {
+    background-color: #7fff82;
+    font-weight: bold;
+}
